@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T17:26:09.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cZj9Ez0Ffa0QR3DJakic" version="22.1.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-19T17:26:37.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RxDMgIthuIsDIgPun_uf" version="22.1.11" type="github" pages="3">
   <diagram name="Opción S3" id="2_QoWsmIpwzopcO--w2Y">
     <mxGraphModel dx="1385" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -269,7 +269,7 @@
         <mxCell id="2P0HmQi2S7DQu7rtxfzW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2P0HmQi2S7DQu7rtxfzW-14" source="2P0HmQi2S7DQu7rtxfzW-27" target="2P0HmQi2S7DQu7rtxfzW-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2P0HmQi2S7DQu7rtxfzW-32" value="* Se debe validar modelo con Arquitectura" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2P0HmQi2S7DQu7rtxfzW-14">
+        <mxCell id="2P0HmQi2S7DQu7rtxfzW-32" value="* Se debe validar y afinar modelo con Arquitectura" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2P0HmQi2S7DQu7rtxfzW-14">
           <mxGeometry x="10" y="240" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RjgHnSKAI3SmHqfDCImx-1" value="Lambdas con &lt;br&gt;Funcionalidades Mantenedor" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda;fillColor=#F58534;gradientColor=none;" vertex="1" parent="2P0HmQi2S7DQu7rtxfzW-14">
