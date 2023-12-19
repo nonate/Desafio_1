@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T17:33:26.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9hlcygeR1b9CtI1s9kem" version="22.1.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-19T23:02:03.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hq7gklmIK9WB_SmdNEAa" version="22.1.11" type="github" pages="3">
   <diagram name="Opción S3" id="2_QoWsmIpwzopcO--w2Y">
     <mxGraphModel dx="1385" dy="1104" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -204,7 +204,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0T0nYBSnucv_-RJBV_8p" name="AWS">
-    <mxGraphModel dx="1385" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1232" dy="1104" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
