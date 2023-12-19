@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T17:26:37.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RxDMgIthuIsDIgPun_uf" version="22.1.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-19T17:33:26.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9hlcygeR1b9CtI1s9kem" version="22.1.11" type="github" pages="3">
   <diagram name="Opción S3" id="2_QoWsmIpwzopcO--w2Y">
-    <mxGraphModel dx="1385" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1385" dy="1104" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,11 +98,14 @@
         <mxCell id="YYY3uUpcTJU4uNfkz4Mn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YYY3uUpcTJU4uNfkz4Mn-7" target="YYY3uUpcTJU4uNfkz4Mn-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QBA6EVHtFt_vha7_i_ZJ-1" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;font-size: 16px;&quot;&gt;AWS S3&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="459" y="60" width="81" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="gBb6j3xRkVCAWkoS8B-B" name="SalesForce">
-    <mxGraphModel dx="1385" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1385" dy="1104" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,6 +196,9 @@
         </mxCell>
         <mxCell id="q8RO04bS4V5Wjf5tzyyC-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q8RO04bS4V5Wjf5tzyyC-5" target="q8RO04bS4V5Wjf5tzyyC-33">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xGYeio_xptI33zlpJZpQ-1" value="&lt;b&gt;&lt;u&gt;SALESFORCE&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="490" y="150" width="81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -399,6 +405,12 @@
         </mxCell>
         <mxCell id="RjgHnSKAI3SmHqfDCImx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RjgHnSKAI3SmHqfDCImx-16" target="RjgHnSKAI3SmHqfDCImx-22">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xggo_MvVDQTRhTdHikAb-1" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;font-size: 16px;&quot;&gt;AWS LAMBDA&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="459" y="60" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xggo_MvVDQTRhTdHikAb-2" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;font-size: 16px;&quot;&gt;AWS EC2&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="459" y="531" width="131" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
